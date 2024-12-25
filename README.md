@@ -1,2 +1,2 @@
 Author - Pritesh 
-This repo  had Codsoft internship task
+This repo  contain Codsoft internship task
